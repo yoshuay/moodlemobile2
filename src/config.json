@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "coid.efa.learnhub",
+    "appname": "EFA Learning Hub",
+    "desktopappname": "EFA Learning Hub",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
@@ -56,36 +56,36 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+//    "demo_sites": {
+//        "student": {
+//            "url": "https:\/\/school.moodledemo.net",
+//            "username": "student",
+//            "password": "moodle"
+//        },
+//        "teacher": {
+//            "url": "https:\/\/school.moodledemo.net",
+//            "username": "teacher",
+//            "password": "moodle"
+//       }
+//    },
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://learn.efa.co.id",
+    "sitename": "EFA Learning Hub",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
-    "notificoncolor": "#f98012",
+    "notificoncolor": "#003366",
     "statusbarbg": false,
     "statusbarlighttext": false,
-    "statusbarbgios": "#f98012",
+    "statusbarbgios": "#003366",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#df7310",
+    "statusbarbgandroid": "#003366",
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
